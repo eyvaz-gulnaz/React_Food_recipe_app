@@ -1,0 +1,23 @@
+{
+  "name": "react_food_recipe_app",
+  "version": "1.0.0",
+  "description": "Food Recipe app with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyvaz-gulnaz/React_Food_recipe_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyvaz-gulnaz/React_Food_recipe_app/issues"
+  },
+  "homepage": "https://github.com/eyvaz-gulnaz/React_Food_recipe_app#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
