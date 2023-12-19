@@ -1,4 +1,4 @@
-{
+{ "homepage":".";
   "name": "react_food_recipe_app",
   "version": "1.0.0",
   "description": "Food Recipe app with React",
